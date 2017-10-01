@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "985552593089",
+    "firebase_url": "https://cloudpay-991fc.firebaseio.com",
+    "project_id": "cloudpay-991fc",
+    "storage_bucket": "cloudpay-991fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985552593089:android:f96a11fbdb736274",
+        "android_client_info": {
+          "package_name": "com.alex.android.cloudpay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985552593089-qv889esh1jk87gr54tca7gtcapvsn4ao.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alex.android.cloudpay",
+            "certificate_hash": "c15b070a00d218d29b9808b4957e90374f7c3b52"
+          }
+        },
+        {
+          "client_id": "985552593089-ahotbcoj4j6g3s2li18e7ipskhn878u6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpPOMwtQbS3tz0ct49AAg1-g3Y-ULQiDc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985552593089-ahotbcoj4j6g3s2li18e7ipskhn878u6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
